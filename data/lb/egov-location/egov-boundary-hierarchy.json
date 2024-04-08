@@ -1,0 +1,26 @@
+{
+  "tenantId": "lb",
+  "moduleName": "egov-boundary-hierarchy",
+  "boundaryHierarchy": [
+    {
+      "level": 1,
+      "label": "Country",
+      "indexLabel": "country"
+    },
+    {
+      "level": 2,
+      "label": "County",
+      "indexLabel": "county"
+    },
+    {
+      "level": 3,
+      "label": "District",
+      "indexLabel": "district"
+    },
+    {
+      "level": 4,
+      "label": "Community",
+      "indexLabel": "community"
+    }
+  ]
+}

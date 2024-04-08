@@ -501,16 +501,6 @@
           "path": "/referralmanagement/v1/bulk/_delete"
         }
       ]
-    },
-   {
-      "service": "DOWNSYNC",
-      "actions": [
-        {
-          "action": "search",
-          "entityName": "Downsync",
-          "path": "/referralmanagement/beneficiary-downsync/v1/_get"
-        }
-      ]
     }
   ]
 }

@@ -1,0 +1,192 @@
+{
+  "tenantId": "lb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "lb",
+        "boundaryNum": 1,
+        "name": "LIBERIA",
+        "localname": "LIBERIA",
+        "longitude": null,
+        "latitude": null,
+        "label": "Country",
+        "code": "lb",
+        "children": [
+          {
+            "id": "mrn7cFSqrHcNx6P78iYxeJ",
+            "boundaryNum": 2,
+            "name": "Bomi",
+            "localname": "Bomi",
+            "longitude": null,
+            "latitude": null,
+            "label": "County",
+            "code": "mrn7cFSqrHcNx6P78iYxeJ",
+            "children": [
+              {
+                "id": "8S9JyLtQxkUcQhHG2ztk8V",
+                "boundaryNum": 3,
+                "name": "Dewoin",
+                "localname": "Dewoin",
+                "longitude": null,
+                "latitude": null,
+                "label": "District",
+                "code": "8S9JyLtQxkUcQhHG2ztk8V",
+                "children": [
+                  {
+                    "id": "9VF8znNYVyMT2MhEpgtNrn",
+                    "boundaryNum": 4,
+                    "name": "communityA",
+                    "localname": "communityA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Community",
+                    "code": "9VF8znNYVyMT2MhEpgtNrn",
+                    "area": "Distribution Post 1",
+                    "children": []
+                  },
+                  {
+                    "id": "44pTU3wW4ezz5kmCNji85J",
+                    "boundaryNum": 4,
+                    "name": "communityB",
+                    "localname": "communityB",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Community",
+                    "code": "44pTU3wW4ezz5kmCNji85J",
+                    "area": "Distribution Post 2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "kqn7cFSqqHcNx6P78iYxeJ",
+                "boundaryNum": 3,
+                "name": "Klay",
+                "localname": "Klay",
+                "longitude": null,
+                "latitude": null,
+                "label": "District",
+                "code": "kqn7cFSqqHcNx6P78iYxeJ",
+                "children": [
+                  {
+                    "id": "DChZ8DxSE9ntfreW8jvMtD",
+                    "boundaryNum": 4,
+                    "name": "CommunityC",
+                    "localname": "CommunityC",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Community",
+                    "code": "DChZ8DxSE9ntfreW8jvMtD",
+                    "area": "Distribution Post 3",
+                    "children": []
+                  },
+                  {
+                    "id": "E3SCXJRaAw9xFkA7pT7cPg",
+                    "boundaryNum": 4,
+                    "name": "CommunityD",
+                    "localname": "CommunityD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Community",
+                    "code": "E3SCXJRaAw9xFkA7pT7cPg",
+                    "area": "Distribution Post 4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "UN0aH8CjbZJ",
+            "boundaryNum": 2,
+            "name": "Bong",
+            "localname": "Bong",
+            "longitude": null,
+            "latitude": null,
+            "label": "County",
+            "code": "UN0aH8CjbZJ",
+            "children": [
+              {
+                "id": "gekPEVffW2N",
+                "boundaryNum": 3,
+                "name": "Fuamah",
+                "localname": "Fuamah",
+                "longitude": null,
+                "latitude": null,
+                "label": "District",
+                "code": "gekPEVffW2N",
+                "children": [
+                  {
+                    "id": "9VF8znNYVyMT2",
+                    "boundaryNum": 4,
+                    "name": "communityE",
+                    "localname": "communityE",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Community",
+                    "code": "9VF8znNYVyMT2",
+                    "area": "Distribution Post 5",
+                    "children": []
+                  },
+                  {
+                    "id": "44pTU3wW4ezz5km",
+                    "boundaryNum": 4,
+                    "name": "communityF",
+                    "localname": "communityF",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Community",
+                    "code": "44pTU3wW4ezz5km",
+                    "area": "Distribution Post 6",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "uLdnSiYhUUf",
+                "boundaryNum": 3,
+                "name": "Jorquelleh",
+                "localname": "Jorquelleh",
+                "longitude": null,
+                "latitude": null,
+                "label": "District",
+                "code": "uLdnSiYhUUf",
+                "children": [
+                  {
+                    "id": "9VF8znN",
+                    "boundaryNum": 4,
+                    "name": "communityG",
+                    "localname": "communityG",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Community",
+                    "code": "9VF8znN",
+                    "area": "Distribution Post 7",
+                    "children": []
+                  },
+                  {
+                    "id": "44pTU3wW",
+                    "boundaryNum": 4,
+                    "name": "communityH",
+                    "localname": "communityH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Community",
+                    "code": "44pTU3wW",
+                    "area": "Distribution Post 8",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

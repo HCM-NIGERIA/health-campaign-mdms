@@ -1,0 +1,94 @@
+{
+  "tenantId": "ng",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "ng",
+        "boundaryNum": 1,
+        "name": "NIGERIA",
+        "localname": "NIGERIA",
+        "longitude": null,
+        "latitude": null,
+        "label": "Country",
+        "code": "ng",
+        "children": [
+          {
+            "id": "mrn7cFSqrHcNxeJ",
+            "boundaryNum": 2,
+            "name": "Arochukwu",
+            "localname": "Arochukwu",
+            "longitude": null,
+            "latitude": null,
+            "label": "LGA",
+            "code": "mrn7cFSqrHcNxeJ",
+            "children": [
+              {
+                "id": "8S9JyLtQxkUcQh",
+                "boundaryNum": 3,
+                "name": "Ward1",
+                "localname": "Ward1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "8S9JyLtQxkUcQh",
+                "children": [
+                  {
+                    "id": "9VF8znNYVyMT",
+                    "boundaryNum": 4,
+                    "name": "FLHF1",
+                    "localname": "FLHF1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "FLHF",
+                    "code": "9VF8znNYVyMT",
+                    "children": [
+                      {
+                        "id": "44pTU3wW4",
+                        "boundaryNum": 5,
+                        "name": "community1",
+                        "localname": "community1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Community",
+                        "code": "44pTU3wW4",
+                        "children": [
+                          {
+                            "id": "44pTU3",
+                            "boundaryNum": 6,
+                            "name": "Settlement1",
+                            "localname": "Settlement1",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "44pTU3",
+                            "children": []
+                          },
+                          {
+                            "id": "44pTU4",
+                            "boundaryNum": 6,
+                            "name": "Settlement2",
+                            "localname": "Settlement2",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "44pTU4",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

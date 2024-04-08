@@ -16,14 +16,14 @@
       },
       "BANDWIDTH_BATCH_SIZE": [
         {
-          "MIN_RANGE": 0.01,
+          "MIN_RANGE": 0.02,
           "MAX_RANGE": 0.20,
-          "BATCH_SIZE": 3
+          "BATCH_SIZE": 1
         },
         {
           "MIN_RANGE": 0.20,
           "MAX_RANGE": 0.50,
-          "BATCH_SIZE": 7
+          "BATCH_SIZE": 5
         },
         {
           "MIN_RANGE": 0.50,
@@ -33,7 +33,7 @@
         {
           "MIN_RANGE": 1,
           "MAX_RANGE": 5,
-          "BATCH_SIZE": 25
+          "BATCH_SIZE": 15
         }
       ],
       "LANGUAGES": [
@@ -41,7 +41,7 @@
           "label": "Portuguese",
           "value": "pt_MZ"
         },
-        {
+           {
           "label": "French",
           "value": "fr_MZ"
         },
@@ -50,33 +50,49 @@
           "value": "en_MZ"
         }
       ],
-      "CALL_SUPPORT": [
+      "CALL_SUPPORT":[
         {
           "name": "Support DeskLine 1",
           "code": "9686151676"
         },
-        {
+          {
           "name": "Support DeskLine 2",
           "code": "7060431109"
         }
       ],
       "CHECKLIST_TYPES": [
         {
-          "name": "WAREHOUSE",
-          "code": "WAREHOUSE"
+          "name": "REGISTRATION_BASIC",
+          "code": "REGISTRATION_BASIC"
         },
         {
-          "name": "TRAINING_SUPERVISION",
-          "code": "TRAINING_SUPERVISION"
+          "name": "LOCAL_MONITOR_TRAINING",
+          "code": "LOCAL_MONITOR_TRAINING"
         },
         {
-          "name": "TEAM_FORMATION",
-          "code": "TEAM_FORMATION"
+          "name": "DISTRICT_MONITOR_TRAINING",
+          "code": "DISTRICT_MONITOR_TRAINING"
+        },
+        {
+          "name": "REGISTRATION_TEAM_TRAINING",
+          "code": "REGISTRATION_TEAM_TRAINING"
+        },
+        {
+          "name": "AS_MONITORING",
+          "code": "AS_MONITORING"
+        },
+        {
+          "name": "MATERIAL_RECEIVED",
+          "code": "MATERIAL_RECEIVED"
+        },
+        {
+          "name": "MATERIAL_ISSUED",
+          "code": "MATERIAL_ISSUED"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
         {
-          "code": "SYSTEM_GENERATED",
+          "code": "DEFAULT",
           "name": "DEFAULT"
         },
         {

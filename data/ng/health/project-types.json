@@ -1,0 +1,101 @@
+{
+  "tenantId": "ng",
+  "moduleName": "HCM-PROJECT-TYPES",
+  "projectTypes": [
+    {
+      "id": "40a528a0-4e0e-11ee-be56-0242ac120002",
+      "name": "configuration for Single Round Campaigns",
+      "code": "NTD-NG",
+      "group": "MALARIA",
+      "beneficiaryType": "INDIVIDUAL",
+      "observationStrategy": "DOT1",
+      "cycles": [
+        {
+          "mandatoryWaitSinceLastCycleInDays": null,
+          "startDate": 1698777000000,
+          "endDate": 1732905000000,
+          "id": 1,
+          "deliveries": [
+            {
+              "id": 1,
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "age>0andage<24",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000014",
+                      "quantity": 0.5
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>23andage<60",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000014",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>59andheight>-1andheight<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000014",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000015",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>59andheight>119andheight<140",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000014",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000015",
+                      "quantity": 2
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>59andheight<160andheight>139",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000014",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000015",
+                      "quantity": 3
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>59andheight>159",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000014",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000015",
+                      "quantity": 4
+                    }
+                  ]
+                }
+              ],
+              "deliveryStrategy": "DIRECT"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

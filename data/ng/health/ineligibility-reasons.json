@@ -1,0 +1,41 @@
+{
+  "tenantId": "ng",
+  "moduleName": "HCM-INELIGIBILITY-REASONS",
+  "ineligibilityReasons": [
+    {
+      "code": "BREAST_FEEDING",
+      "name": "Breast Feeding",
+      "active": true
+    },
+    {
+      "code": "PREGNANT",
+      "name": "Pregnant",
+      "active": true
+    },
+    {
+      "code": "SICK",
+      "name": "Sick",
+      "active": true
+    },
+    {
+      "code": "ABSENT",
+      "name": "Absent",
+      "active": true
+    },
+    {
+      "code": "UNDERAGE",
+      "name": "Underage",
+      "active": true
+    },
+    {
+      "code": "STUNTED_GROWTH",
+      "name": "Stunted Growth",
+      "active": true
+    },
+    {
+      "code": "DISABILITY",
+      "name": "Disability",
+      "active": true
+    }
+  ]
+}
