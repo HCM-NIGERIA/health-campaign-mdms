@@ -3,23 +3,8 @@
     "moduleName": "HCM-SYMPTOMS-TYPES",
     "symptomsTypes": [
         {
-            "code": "VOMITTING",
-            "name": "Vomitting",
-            "active": true
-        },
-        {
             "code": "ABDOMINAL_PAIN",
             "name": "Abdominal Pain",
-            "active": true
-        },
-        {
-            "code": "SKIN_REACTION",
-            "name": "Skin Reaction",
-            "active": true
-        },
-        {
-            "code": "WEAKNESS",
-            "name": "Weakness",
             "active": true
         },
         {
@@ -30,6 +15,51 @@
         {
             "code": "DIARRHOEA",
             "name": "Diarrhoea",
+            "active": true
+        },
+        {
+            "code": "NAUSEA_AND_VOMITING",
+            "name": "nausea and vomiting",
+            "active": true
+        },
+        {
+            "code": "SHAKING_AND_TREMBLING",
+            "name": "shaking and trembling",
+            "active": true
+        },
+        {
+            "code": "ITCHING_OR_SKIN_RASH",
+            "name": "itching or skin rash",
+            "active": true
+        },
+        {
+            "code": "RAPID_HEARTBEAT",
+            "name": "rapid heartbeat",
+            "active": true
+        },
+        {
+            "code": "HEADACHE",
+            "name": "headache",
+            "active": true
+        },
+        {
+            "code": "SWELLING_OF_THE_FACE_HANDS_ARMS_FEET_OR_LEGS",
+            "name": "swelling of the face hands arms feet or legs",
+            "active": true
+        },
+        {
+            "code": "DIZZINESS",
+            "name": "dizziness",
+            "active": true
+        },
+        {
+            "code": "LOSS_OF_APPETITE",
+            "name": "loss of appetite",
+            "active": true
+        },
+        {
+            "code": "SLEEPINESS",
+            "name": "sleepiness",
             "active": true
         },
         {

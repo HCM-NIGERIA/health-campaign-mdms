@@ -1,0 +1,30 @@
+{
+  "tenantId": "ng",
+  "moduleName": "HCM-TRANSFORMER-ELASTIC-INDEX-LABELS",
+  "transformerElasticIndexLabels": [
+    {
+      "label": "Country",
+      "indexLabel": "country"
+    },
+    {
+      "label": "State",
+      "indexLabel": "state"
+    },
+    {
+      "label": "LGA",
+      "indexLabel": "lga"
+    },
+    {
+      "label": "Ward",
+      "indexLabel": "ward"
+    },
+    {
+      "label": "Health Facility",
+      "indexLabel": "healthFacility"
+    },
+    {
+      "label": "Settlement",
+      "indexLabel": "settlement"
+    }
+  ]
+}

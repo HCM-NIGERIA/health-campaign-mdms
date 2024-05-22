@@ -1,5 +1,5 @@
 {
-  "tenantId": "lb",
+  "tenantId": "ng",
   "moduleName": "HCM-SERVICE-REGISTRY",
   "serviceRegistry": [
     {
