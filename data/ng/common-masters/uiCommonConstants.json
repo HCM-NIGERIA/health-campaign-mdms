@@ -10,7 +10,7 @@
               "isOrigin": true
             },
             "national": {
-              "routePath": "/kibana-upgrade/s/national-dashboard/app/dashboards#/view/27ba5a75-644a-4087-8c00-5[…]!(),time:(from:now-15m,to:now))",
+              "routePath": "/kibana-upgrade/s/national-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/27ba5a75-644a-4087-8c00-5785d7df91f9?_g=(time:(from:now-15m,to:now))",
               "isOrigin": true,
               "title": "NATIONAL_DASHBOARD"
             }
