@@ -642,17 +642,6 @@
                             "children": []
                           }
                         ]
-                      },
-                      {
-                        "id": "5AEd4z28KZJaq2dtAbZiyC",
-                        "boundaryNum": 5,
-                        "name": "Gandurawa Health Post",
-                        "localname": "Gandurawa Health Post",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Health Facility",
-                        "code": "5AEd4z28KZJaq2dtAbZiyC",
-                        "children": []
                       }
                     ]
                   },
@@ -2930,17 +2919,6 @@
                             "children": []
                           }
                         ]
-                      },
-                      {
-                        "id": "TSLqxr6dNiDLTh5AdoBt5q",
-                        "boundaryNum": 5,
-                        "name": "Garke Health Post",
-                        "localname": "Garke Health Post",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Health Facility",
-                        "code": "TSLqxr6dNiDLTh5AdoBt5q",
-                        "children": []
                       }
                     ]
                   },
@@ -4403,28 +4381,6 @@
                             "children": []
                           }
                         ]
-                      },
-                      {
-                        "id": "gkWkKjgbuMxAKo7cTTu8sD",
-                        "boundaryNum": 5,
-                        "name": "Marke Health Post",
-                        "localname": "Marke Health Post",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Health Facility",
-                        "code": "gkWkKjgbuMxAKo7cTTu8sD",
-                        "children": []
-                      },
-                      {
-                        "id": "6q3RnVBzGqGuREARrHvHjh",
-                        "boundaryNum": 5,
-                        "name": "Asabongari Gari Health Post",
-                        "localname": "Asabongari Gari Health Post",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Health Facility",
-                        "code": "6q3RnVBzGqGuREARrHvHjh",
-                        "children": []
                       }
                     ]
                   },
@@ -5067,17 +5023,6 @@
                             "children": []
                           }
                         ]
-                      },
-                      {
-                        "id": "eYCU5N4NWbQ7Lvg2cMmeim",
-                        "boundaryNum": 5,
-                        "name": "Tunkunawa Health Post",
-                        "localname": "Tunkunawa Health Post",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Health Facility",
-                        "code": "eYCU5N4NWbQ7Lvg2cMmeim",
-                        "children": []
                       }
                     ]
                   },
