@@ -48,62 +48,6 @@
                     "code": "c8zTuy77Wih24RwsJCsfsC",
                     "children": [
                       {
-                        "id": "5AEd4z28KZJaq2dtAbZiyC",
-                        "boundaryNum": 5,
-                        "name": "Gandurawa Health Post",
-                        "localname": "Gandurawa Health Post",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Health Facility",
-                        "code": "5AEd4z28KZJaq2dtAbZiyC",
-                        "children": [
-                          {
-                            "id": "ki38dkmzAMTx4XhC3iwMjr",
-                            "boundaryNum": 6,
-                            "name": "Farawa Fulani",
-                            "localname": "Farawa Fulani",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "ki38dkmzAMTx4XhC3iwMjr",
-                            "children": []
-                          },
-                          {
-                            "id": "JFfiCT4BZ8E6YP9Jj5qMZi",
-                            "boundaryNum": 6,
-                            "name": "Farawa Layin Gidan Dagaci",
-                            "localname": "Farawa Layin Gidan Dagaci",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "JFfiCT4BZ8E6YP9Jj5qMZi",
-                            "children": []
-                          },
-                          {
-                            "id": "XX3K9AnpNSXVK4DNEqeWBd",
-                            "boundaryNum": 6,
-                            "name": "Farawa Layin Kasuwa",
-                            "localname": "Farawa Layin Kasuwa",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "XX3K9AnpNSXVK4DNEqeWBd",
-                            "children": []
-                          },
-                          {
-                            "id": "YjafSsBnFDspRKBHrzzK7v",
-                            "boundaryNum": 6,
-                            "name": "Farawa Unguwar Kudu",
-                            "localname": "Farawa Unguwar Kudu",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "YjafSsBnFDspRKBHrzzK7v",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
                         "id": "6YqxuGVyDx69AeE9dB57Lz",
                         "boundaryNum": 5,
                         "name": "Koya Health Post",
@@ -698,6 +642,17 @@
                             "children": []
                           }
                         ]
+                      },
+                      {
+                        "id": "5AEd4z28KZJaq2dtAbZiyC",
+                        "boundaryNum": 5,
+                        "name": "Gandurawa Health Post",
+                        "localname": "Gandurawa Health Post",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Health Facility",
+                        "code": "5AEd4z28KZJaq2dtAbZiyC",
+                        "children": []
                       }
                     ]
                   },
@@ -721,6 +676,50 @@
                         "label": "Health Facility",
                         "code": "HmNb8bYqYGiHcNqTEvEnLZ",
                         "children": [
+                          {
+                            "id": "ki38dkmzAMTx4XhC3iwMjr",
+                            "boundaryNum": 6,
+                            "name": "Farawa Fulani",
+                            "localname": "Farawa Fulani",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "ki38dkmzAMTx4XhC3iwMjr",
+                            "children": []
+                          },
+                          {
+                            "id": "JFfiCT4BZ8E6YP9Jj5qMZi",
+                            "boundaryNum": 6,
+                            "name": "Farawa Layin Gidan Dagaci",
+                            "localname": "Farawa Layin Gidan Dagaci",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "JFfiCT4BZ8E6YP9Jj5qMZi",
+                            "children": []
+                          },
+                          {
+                            "id": "XX3K9AnpNSXVK4DNEqeWBd",
+                            "boundaryNum": 6,
+                            "name": "Farawa Layin Kasuwa",
+                            "localname": "Farawa Layin Kasuwa",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "XX3K9AnpNSXVK4DNEqeWBd",
+                            "children": []
+                          },
+                          {
+                            "id": "YjafSsBnFDspRKBHrzzK7v",
+                            "boundaryNum": 6,
+                            "name": "Farawa Unguwar Kudu",
+                            "localname": "Farawa Unguwar Kudu",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "YjafSsBnFDspRKBHrzzK7v",
+                            "children": []
+                          },
                           {
                             "id": "Rtd6gPz4iN6ria25Jim2Bc",
                             "boundaryNum": 6,
@@ -1229,6 +1228,94 @@
                         "label": "Health Facility",
                         "code": "oATQUVwz4VruzjHFKDAVyD",
                         "children": [
+                          {
+                            "id": "SF9Dbtz84tMiVoCpkPHA7p",
+                            "boundaryNum": 6,
+                            "name": "Malam Ladi Bayan Gari",
+                            "localname": "Malam Ladi Bayan Gari",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "SF9Dbtz84tMiVoCpkPHA7p",
+                            "children": []
+                          },
+                          {
+                            "id": "XhvCPm5wcjjPXfSmNQm2e4",
+                            "boundaryNum": 6,
+                            "name": "Malam Ladi Layin Mai Unguwar",
+                            "localname": "Malam Ladi Layin Mai Unguwar",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "XhvCPm5wcjjPXfSmNQm2e4",
+                            "children": []
+                          },
+                          {
+                            "id": "T2vGeVhym5FhRYeQRiCTZm",
+                            "boundaryNum": 6,
+                            "name": "Malam Ladi Unguwar Abdu Na Abidn",
+                            "localname": "Malam Ladi Unguwar Abdu Na Abidn",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "T2vGeVhym5FhRYeQRiCTZm",
+                            "children": []
+                          },
+                          {
+                            "id": "E53KvPmVyayzrMSBrUaEzp",
+                            "boundaryNum": 6,
+                            "name": "Malam Ladi Unguwar Dan Tsangaya",
+                            "localname": "Malam Ladi Unguwar Dan Tsangaya",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "E53KvPmVyayzrMSBrUaEzp",
+                            "children": []
+                          },
+                          {
+                            "id": "53PzLtwo4krc6ygy8UfaFi",
+                            "boundaryNum": 6,
+                            "name": "Zura Cikin Gari Gidan Malam",
+                            "localname": "Zura Cikin Gari Gidan Malam",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "53PzLtwo4krc6ygy8UfaFi",
+                            "children": []
+                          },
+                          {
+                            "id": "3KAVthuBvtcxyrpeiH88XF",
+                            "boundaryNum": 6,
+                            "name": "Zura Karda",
+                            "localname": "Zura Karda",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "3KAVthuBvtcxyrpeiH88XF",
+                            "children": []
+                          },
+                          {
+                            "id": "WmgXhgycENa8cEanq5XXTj",
+                            "boundaryNum": 6,
+                            "name": "Zura Tasha",
+                            "localname": "Zura Tasha",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "WmgXhgycENa8cEanq5XXTj",
+                            "children": []
+                          },
+                          {
+                            "id": "Rzw6Sxve8VaGmErcpPPmpJ",
+                            "boundaryNum": 6,
+                            "name": "Zura Yankau",
+                            "localname": "Zura Yankau",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "Rzw6Sxve8VaGmErcpPPmpJ",
+                            "children": []
+                          },
                           {
                             "id": "BAREaxMoCoBTocoU2iUHWy",
                             "boundaryNum": 6,
@@ -2227,106 +2314,6 @@
                         ]
                       },
                       {
-                        "id": "TSLqxr6dNiDLTh5AdoBt5q",
-                        "boundaryNum": 5,
-                        "name": "Garke Health Post",
-                        "localname": "Garke Health Post",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Health Facility",
-                        "code": "TSLqxr6dNiDLTh5AdoBt5q",
-                        "children": [
-                          {
-                            "id": "SF9Dbtz84tMiVoCpkPHA7p",
-                            "boundaryNum": 6,
-                            "name": "Malam Ladi Bayan Gari",
-                            "localname": "Malam Ladi Bayan Gari",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "SF9Dbtz84tMiVoCpkPHA7p",
-                            "children": []
-                          },
-                          {
-                            "id": "XhvCPm5wcjjPXfSmNQm2e4",
-                            "boundaryNum": 6,
-                            "name": "Malam Ladi Layin Mai Unguwar",
-                            "localname": "Malam Ladi Layin Mai Unguwar",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "XhvCPm5wcjjPXfSmNQm2e4",
-                            "children": []
-                          },
-                          {
-                            "id": "T2vGeVhym5FhRYeQRiCTZm",
-                            "boundaryNum": 6,
-                            "name": "Malam Ladi Unguwar Abdu Na Abidn",
-                            "localname": "Malam Ladi Unguwar Abdu Na Abidn",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "T2vGeVhym5FhRYeQRiCTZm",
-                            "children": []
-                          },
-                          {
-                            "id": "E53KvPmVyayzrMSBrUaEzp",
-                            "boundaryNum": 6,
-                            "name": "Malam Ladi Unguwar Dan Tsangaya",
-                            "localname": "Malam Ladi Unguwar Dan Tsangaya",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "E53KvPmVyayzrMSBrUaEzp",
-                            "children": []
-                          },
-                          {
-                            "id": "53PzLtwo4krc6ygy8UfaFi",
-                            "boundaryNum": 6,
-                            "name": "Zura Cikin Gari Gidan Malam",
-                            "localname": "Zura Cikin Gari Gidan Malam",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "53PzLtwo4krc6ygy8UfaFi",
-                            "children": []
-                          },
-                          {
-                            "id": "3KAVthuBvtcxyrpeiH88XF",
-                            "boundaryNum": 6,
-                            "name": "Zura Karda",
-                            "localname": "Zura Karda",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "3KAVthuBvtcxyrpeiH88XF",
-                            "children": []
-                          },
-                          {
-                            "id": "WmgXhgycENa8cEanq5XXTj",
-                            "boundaryNum": 6,
-                            "name": "Zura Tasha",
-                            "localname": "Zura Tasha",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "WmgXhgycENa8cEanq5XXTj",
-                            "children": []
-                          },
-                          {
-                            "id": "Rzw6Sxve8VaGmErcpPPmpJ",
-                            "boundaryNum": 6,
-                            "name": "Zura Yankau",
-                            "localname": "Zura Yankau",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "Rzw6Sxve8VaGmErcpPPmpJ",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
                         "id": "W7Jp2tDhXFPVoauQm8BmfY",
                         "boundaryNum": 5,
                         "name": "Kunya Sambawa Primary Healthcare Centre",
@@ -2943,6 +2930,17 @@
                             "children": []
                           }
                         ]
+                      },
+                      {
+                        "id": "TSLqxr6dNiDLTh5AdoBt5q",
+                        "boundaryNum": 5,
+                        "name": "Garke Health Post",
+                        "localname": "Garke Health Post",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Health Facility",
+                        "code": "TSLqxr6dNiDLTh5AdoBt5q",
+                        "children": []
                       }
                     ]
                   },
@@ -2959,8 +2957,8 @@
                       {
                         "id": "3vL3pFXZkTjDhnQjjD8q6G",
                         "boundaryNum": 5,
-                        "name": "Dan Sudu Health Post",
-                        "localname": "Dan Sudu Health Post",
+                        "name": "Zabainawar Dansudu Health Post",
+                        "localname": "Zabainawar Dansudu Health Post",
                         "longitude": null,
                         "latitude": null,
                         "label": "Health Facility",
@@ -3733,29 +3731,6 @@
                     "code": "YNqg3s9aRiwEfjMqdPfCGx",
                     "children": [
                       {
-                        "id": "6q3RnVBzGqGuREARrHvHjh",
-                        "boundaryNum": 5,
-                        "name": "Asabongari Gari Health Post",
-                        "localname": "Asabongari Gari Health Post",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Health Facility",
-                        "code": "6q3RnVBzGqGuREARrHvHjh",
-                        "children": [
-                          {
-                            "id": "5UWWZmKFUAqPn6LmFjhVPi",
-                            "boundaryNum": 6,
-                            "name": "Gasgainu Lufudawa Danyandi",
-                            "localname": "Gasgainu Lufudawa Danyandi",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "5UWWZmKFUAqPn6LmFjhVPi",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
                         "id": "KhfpAkNXnbB6zei4UtnRZc",
                         "boundaryNum": 5,
                         "name": "Bawuri Health Post",
@@ -3847,8 +3822,8 @@
                       {
                         "id": "YY2J9X7M2yacQR6Y5QRzwD",
                         "boundaryNum": 5,
-                        "name": "Kearkiya Health Post",
-                        "localname": "Kearkiya Health Post",
+                        "name": "Kwarkiya Health Post",
+                        "localname": "Kwarkiya Health Post",
                         "longitude": null,
                         "latitude": null,
                         "label": "Health Facility",
@@ -4099,15 +4074,26 @@
                         ]
                       },
                       {
-                        "id": "gkWkKjgbuMxAKo7cTTu8sD",
+                        "id": "WLoxDvp5j2ybSMvFXtZ7ZM",
                         "boundaryNum": 5,
-                        "name": "Marke Health Post",
-                        "localname": "Marke Health Post",
+                        "name": "Gasgainu Health Clinic",
+                        "localname": "Gasgainu Health Clinic",
                         "longitude": null,
                         "latitude": null,
                         "label": "Health Facility",
-                        "code": "gkWkKjgbuMxAKo7cTTu8sD",
+                        "code": "WLoxDvp5j2ybSMvFXtZ7ZM",
                         "children": [
+                          {
+                            "id": "5UWWZmKFUAqPn6LmFjhVPi",
+                            "boundaryNum": 6,
+                            "name": "Gasgainu Lufudawa Danyandi",
+                            "localname": "Gasgainu Lufudawa Danyandi",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "5UWWZmKFUAqPn6LmFjhVPi",
+                            "children": []
+                          },
                           {
                             "id": "9JESmt8BokDvndPY9hKBC8",
                             "boundaryNum": 6,
@@ -4118,19 +4104,7 @@
                             "label": "Settlement",
                             "code": "9JESmt8BokDvndPY9hKBC8",
                             "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "WLoxDvp5j2ybSMvFXtZ7ZM",
-                        "boundaryNum": 5,
-                        "name": "Sabon Gari Health Post",
-                        "localname": "Sabon Gari Health Post",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Health Facility",
-                        "code": "WLoxDvp5j2ybSMvFXtZ7ZM",
-                        "children": [
+                          },
                           {
                             "id": "htweH5EfYh2YriWTajdfTp",
                             "boundaryNum": 6,
@@ -4429,6 +4403,28 @@
                             "children": []
                           }
                         ]
+                      },
+                      {
+                        "id": "gkWkKjgbuMxAKo7cTTu8sD",
+                        "boundaryNum": 5,
+                        "name": "Marke Health Post",
+                        "localname": "Marke Health Post",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Health Facility",
+                        "code": "gkWkKjgbuMxAKo7cTTu8sD",
+                        "children": []
+                      },
+                      {
+                        "id": "6q3RnVBzGqGuREARrHvHjh",
+                        "boundaryNum": 5,
+                        "name": "Asabongari Gari Health Post",
+                        "localname": "Asabongari Gari Health Post",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Health Facility",
+                        "code": "6q3RnVBzGqGuREARrHvHjh",
+                        "children": []
                       }
                     ]
                   },
@@ -4445,8 +4441,8 @@
                       {
                         "id": "MPXPvbBLd8M3tpEqkH7a5y",
                         "boundaryNum": 5,
-                        "name": "Coscodom Health Post",
-                        "localname": "Coscodom Health Post",
+                        "name": "Minjibir Coscodom Health Clinic",
+                        "localname": "Minjibir Coscodom Health Clinic",
                         "longitude": null,
                         "latitude": null,
                         "label": "Health Facility",
@@ -4821,8 +4817,8 @@
                       {
                         "id": "N6RqQyXwywDeyB7RjadTm4",
                         "boundaryNum": 5,
-                        "name": "Minjibir Primary Healthcare Centre",
-                        "localname": "Minjibir Primary Healthcare Centre",
+                        "name": "Minjibir Health Clinic",
+                        "localname": "Minjibir Health Clinic",
                         "longitude": null,
                         "latitude": null,
                         "label": "Health Facility",
@@ -5081,74 +5077,7 @@
                         "latitude": null,
                         "label": "Health Facility",
                         "code": "eYCU5N4NWbQ7Lvg2cMmeim",
-                        "children": [
-                          {
-                            "id": "9erAcKhFwbyiudGsSBrG4F",
-                            "boundaryNum": 6,
-                            "name": "Agalawa Danziri",
-                            "localname": "Agalawa Danziri",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "9erAcKhFwbyiudGsSBrG4F",
-                            "children": []
-                          },
-                          {
-                            "id": "2p4YAPjoioemaaKtLAPRP4",
-                            "boundaryNum": 6,
-                            "name": "Agalawa Tsakiya Gari",
-                            "localname": "Agalawa Tsakiya Gari",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "2p4YAPjoioemaaKtLAPRP4",
-                            "children": []
-                          },
-                          {
-                            "id": "XMS6Ww2zmE3EHPhLuRBnuD",
-                            "boundaryNum": 6,
-                            "name": "Agalawa Unguwar Gabas",
-                            "localname": "Agalawa Unguwar Gabas",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "XMS6Ww2zmE3EHPhLuRBnuD",
-                            "children": []
-                          },
-                          {
-                            "id": "inQyesYQnRinZZdZAxAXB9",
-                            "boundaryNum": 6,
-                            "name": "Agalawa Yan Gulma",
-                            "localname": "Agalawa Yan Gulma",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "inQyesYQnRinZZdZAxAXB9",
-                            "children": []
-                          },
-                          {
-                            "id": "imtX47AkVHkDisVJ8bJfVX",
-                            "boundaryNum": 6,
-                            "name": "Aganawa Farkon Gari",
-                            "localname": "Aganawa Farkon Gari",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "imtX47AkVHkDisVJ8bJfVX",
-                            "children": []
-                          },
-                          {
-                            "id": "BmPkhRfVScfiVzwqMovDJB",
-                            "boundaryNum": 6,
-                            "name": "Agawa Unguwar Gabas",
-                            "localname": "Agawa Unguwar Gabas",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "BmPkhRfVScfiVzwqMovDJB",
-                            "children": []
-                          }
-                        ]
+                        "children": []
                       }
                     ]
                   },
@@ -5774,8 +5703,8 @@
                       {
                         "id": "LHuz4xuwbBGJdNz6mvFUoH",
                         "boundaryNum": 5,
-                        "name": "Tsakiya Health Post",
-                        "localname": "Tsakiya Health Post",
+                        "name": "Tsakiya Health Clinic",
+                        "localname": "Tsakiya Health Clinic",
                         "longitude": null,
                         "latitude": null,
                         "label": "Health Facility",
@@ -6294,8 +6223,8 @@
                       {
                         "id": "fChSNmqSDu2Ljgfyi7VeE2",
                         "boundaryNum": 5,
-                        "name": "Kankaraw Health Post",
-                        "localname": "Kankaraw Health Post",
+                        "name": "Kankarawa Health Clinic",
+                        "localname": "Kankarawa Health Clinic",
                         "longitude": null,
                         "latitude": null,
                         "label": "Health Facility",
@@ -6669,13 +6598,79 @@
                       {
                         "id": "ZFfCC3XHvSCQhT8APwHwfq",
                         "boundaryNum": 5,
-                        "name": "Tinkunawa Health Post",
-                        "localname": "Tinkunawa Health Post",
+                        "name": "Tunkunawa Health Post",
+                        "localname": "Tunkunawa Health Post",
                         "longitude": null,
                         "latitude": null,
                         "label": "Health Facility",
                         "code": "ZFfCC3XHvSCQhT8APwHwfq",
                         "children": [
+                          {
+                            "id": "9erAcKhFwbyiudGsSBrG4F",
+                            "boundaryNum": 6,
+                            "name": "Agalawa Danziri",
+                            "localname": "Agalawa Danziri",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "9erAcKhFwbyiudGsSBrG4F",
+                            "children": []
+                          },
+                          {
+                            "id": "2p4YAPjoioemaaKtLAPRP4",
+                            "boundaryNum": 6,
+                            "name": "Agalawa Tsakiya Gari",
+                            "localname": "Agalawa Tsakiya Gari",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "2p4YAPjoioemaaKtLAPRP4",
+                            "children": []
+                          },
+                          {
+                            "id": "XMS6Ww2zmE3EHPhLuRBnuD",
+                            "boundaryNum": 6,
+                            "name": "Agalawa Unguwar Gabas",
+                            "localname": "Agalawa Unguwar Gabas",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "XMS6Ww2zmE3EHPhLuRBnuD",
+                            "children": []
+                          },
+                          {
+                            "id": "inQyesYQnRinZZdZAxAXB9",
+                            "boundaryNum": 6,
+                            "name": "Agalawa Yan Gulma",
+                            "localname": "Agalawa Yan Gulma",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "inQyesYQnRinZZdZAxAXB9",
+                            "children": []
+                          },
+                          {
+                            "id": "imtX47AkVHkDisVJ8bJfVX",
+                            "boundaryNum": 6,
+                            "name": "Aganawa Farkon Gari",
+                            "localname": "Aganawa Farkon Gari",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "imtX47AkVHkDisVJ8bJfVX",
+                            "children": []
+                          },
+                          {
+                            "id": "BmPkhRfVScfiVzwqMovDJB",
+                            "boundaryNum": 6,
+                            "name": "Agawa Unguwar Gabas",
+                            "localname": "Agawa Unguwar Gabas",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Settlement",
+                            "code": "BmPkhRfVScfiVzwqMovDJB",
+                            "children": []
+                          },
                           {
                             "id": "5CcbjUY8gzRkpUCfoiy2oj",
                             "boundaryNum": 6,
@@ -6869,8 +6864,8 @@
                       {
                         "id": "EwDD6RHmKqsfxuKBTfksE2",
                         "boundaryNum": 5,
-                        "name": "Abu Da Kaya Health Post",
-                        "localname": "Abu Da Kaya Health Post",
+                        "name": "Abudakaya Health Post",
+                        "localname": "Abudakaya Health Post",
                         "longitude": null,
                         "latitude": null,
                         "label": "Health Facility",
