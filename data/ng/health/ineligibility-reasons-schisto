@@ -1,0 +1,26 @@
+{
+  "tenantId": "ng",
+  "moduleName": "HCM-INELIGIBILITY-REASONS-SCHISTO",
+  "ineligibilityReasons": [
+    {
+      "code": "SICK",
+      "name": "Sick",
+      "active": true
+    },
+    {
+      "code": "ANEMIC",
+      "name": "Sickle cell anemic patients",
+      "active": true
+    },
+    {
+      "code": "EPILEPSY",
+      "name": "History of epilepsy",
+      "active": true
+    },
+    {
+      "code": "NEUROLOGICAL",
+      "name": "Potential central nervous system involvement",
+      "active": true
+    }
+  ]
+}
