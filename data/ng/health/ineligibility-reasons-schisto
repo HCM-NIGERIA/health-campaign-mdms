@@ -1,7 +1,7 @@
 {
   "tenantId": "ng",
   "moduleName": "HCM-INELIGIBILITY-REASONS-SCHISTO",
-  "ineligibilityReasons": [
+  "ineligibilityReasonsSchisto": [
     {
       "code": "SICK",
       "name": "Sick",
