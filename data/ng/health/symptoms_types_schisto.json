@@ -1,0 +1,51 @@
+{
+    "tenantId": "ng",
+    "moduleName": "HCM-SYMPTOMS-TYPES-SCHISTO",
+    "symptomsTypesSchisto": [
+        {
+            "code": "ABDOMINAL_PAIN",
+            "name": "Abdominal Pain",
+            "active": true
+        },
+        {
+            "code": "DIARRHOEA",
+            "name": "Diarrhoea",
+            "active": true
+        },
+        {
+            "code": "NAUSEA",
+            "name": "nausea",
+            "active": true
+        },
+        {
+            "code": "VOMITING",
+            "name": "vomiting",
+            "active": true
+        },
+        {
+            "code": "TIREDNESS",
+            "name": "shaking and trembling",
+            "active": true
+        },
+        {
+            "code": "URTICARIA",
+            "name": "Urticaria (rash)",
+            "active": true
+        },
+        {
+            "code": "MUSCLE_PAIN",
+            "name": "Muscle Pain",
+            "active": true
+        },
+        {
+            "code": "HEADACHE",
+            "name": "headache",
+            "active": true
+        },
+        {
+            "code": "DIZZINESS",
+            "name": "dizziness",
+            "active": true
+        }
+    ]
+}
