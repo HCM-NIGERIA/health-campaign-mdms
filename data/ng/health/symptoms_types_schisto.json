@@ -14,17 +14,17 @@
         },
         {
             "code": "NAUSEA",
-            "name": "nausea",
+            "name": "Nausea",
             "active": true
         },
         {
             "code": "VOMITING",
-            "name": "vomiting",
+            "name": "Vomiting",
             "active": true
         },
         {
             "code": "TIREDNESS",
-            "name": "shaking and trembling",
+            "name": "Tiredness",
             "active": true
         },
         {
@@ -39,12 +39,17 @@
         },
         {
             "code": "HEADACHE",
-            "name": "headache",
+            "name": "Headache",
             "active": true
         },
         {
             "code": "DIZZINESS",
-            "name": "dizziness",
+            "name": "Dizziness",
+            "active": true
+        },
+        {
+            "code": "OTHER",
+            "name": "Other",
             "active": true
         }
     ]
