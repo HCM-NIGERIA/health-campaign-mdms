@@ -320,7 +320,7 @@
       },
       "cycles": [
         {
-          "mandatoryWaitSinceLastCycleInDays": null,
+          "mandatoryWaitSinceLastCycleInDays": 24,
           "startDate": 1698777000000,
           "endDate": 1735669799000,
           "id": 1,
