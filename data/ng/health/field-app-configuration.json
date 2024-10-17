@@ -54,64 +54,20 @@
       ],
       "CHECKLIST_TYPES": [
         {
-          "name": "REGISTRATION_BASIC",
-          "code": "REGISTRATION_BASIC"
+          "name": "CDD_INTERVIEW",
+          "code": "CDD_INTERVIEW"
         },
         {
-          "name": "LOCAL_MONITOR_TRAINING",
-          "code": "LOCAL_MONITOR_TRAINING"
+          "name": "CLIENT_INTERVIEW",
+          "code": "CLIENT_INTERVIEW"
         },
         {
-          "name": "DISTRICT_MONITOR_TRAINING",
-          "code": "DISTRICT_MONITOR_TRAINING"
+          "name": "SUPERVISORY_CHECKLIST",
+          "code": "SUPERVISORY_CHECKLIST"
         },
         {
-          "name": "REGISTRATION_TEAM_TRAINING",
-          "code": "REGISTRATION_TEAM_TRAINING"
-        },
-        {
-          "name": "AS_MONITORING",
-          "code": "AS_MONITORING"
-        },
-        {
-          "name": "MATERIAL_RECEIVED",
-          "code": "MATERIAL_RECEIVED"
-        },
-        {
-          "name": "MATERIAL_ISSUED",
-          "code": "MATERIAL_ISSUED"
-        },
-        {
-          "name": "SOCIAL_MOBILIZATION",
-          "code": "SOCIAL_MOBILIZATION"
-        },
-        {
-          "name": "REFERRAL",
-          "code": "REFERRAL"
-        },
-        {
-          "name": "HEALTH_PROFESSIONAL",
-          "code": "HEALTH_PROFESSIONAL"
-        },
-        {
-          "name": "ADMINISTRATION",
-          "code": "ADMINISTRATION"
-        },
-        {
-          "name": "STOCK_MANAGEMENT",
-          "code": "STOCK_MANAGEMENT"
-        },
-        {
-          "name": "PERFORMANCE_STANDARD",
-          "code": "PERFORMANCE_STANDARD"
-        },
-        {
-          "name": "PHARMACOVIGILANCE",
-          "code": "PHARMACOVIGILANCE"
-        },
-        {
-          "name": "SPAQ_CONCILIATION",
-          "code": "SPAQ_CONCILIATION"
+          "name": "TTAs_CHECKLIST",
+          "code": "TTAs_CHECKLIST"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
