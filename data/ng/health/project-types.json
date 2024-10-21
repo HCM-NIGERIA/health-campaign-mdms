@@ -330,7 +330,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "age>59andheight>93andheight<110",
+                  "condition": "age<180andage>59andheight>93andheight<110",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2024-09-30-000006",
@@ -339,7 +339,7 @@
                   ]
                 },
                 {
-                  "condition": "age>59andheight>109andheight<125",
+                  "condition": "age<180andage>59andheight>109andheight<125",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2024-09-30-000006",
@@ -348,7 +348,7 @@
                   ]
                 },
                 {
-                  "condition": "age>59andheight>124andheight<138",
+                  "condition": "age<180andage>59andheight>124andheight<138",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2024-09-30-000006",
@@ -357,7 +357,7 @@
                   ]
                 },
                 {
-                  "condition": "age>59andheight>137andheight<150",
+                  "condition": "age<180andage>59andheight>137andheight<150",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2024-09-30-000006",
@@ -366,7 +366,7 @@
                   ]
                 },
                 {
-                  "condition": "age>59andheight>149andheight<160",
+                  "condition": "age<180andage>59andheight>149andheight<160",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2024-09-30-000006",
@@ -375,7 +375,7 @@
                   ]
                 },
                 {
-                  "condition": "age>59andheight>159andheight<178",
+                  "condition": "age<180andage>59andheight>159andheight<178",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2024-09-30-000006",
@@ -384,7 +384,7 @@
                   ]
                 },
                 {
-                  "condition": "age>59andheight>177",
+                  "condition": "age<180andage>59andheight>177",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2024-09-30-000006",
