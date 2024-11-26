@@ -48,6 +48,21 @@
             "active": true
         },
         {
+            "code": "FEVER",
+            "name": "Fever",
+            "active": true
+        },
+        {
+            "code": "ITCHING",
+            "name": "Itching",
+            "active": true
+        },
+        {
+            "code": "SWEATING",
+            "name": "Sweating",
+            "active": true
+        },
+        {
             "code": "OTHER",
             "name": "Other",
             "active": true
