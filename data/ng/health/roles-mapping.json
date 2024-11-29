@@ -33,6 +33,7 @@
     "Community Distributor": "COMMUNITY_DISTRIBUTOR",
     "Attendance Staff": "ATTENDANCE_STAFF",
     "TTA": "TTA",
-    "Independent Monitor": "INDEPENDENT_MONITOR"
+    "Independent Monitor": "INDEPENDENT_MONITOR",
+    "Attendance TTA": "ATTENDANCE_STAFF,TTA"
   }]
 }
