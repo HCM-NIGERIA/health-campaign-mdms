@@ -263,7 +263,9 @@
           "target_4",
           "target_5",
           "target_6",
-          "target_7"
+          "target_7",
+          "target_8",
+          "target_9"
         ],
         "totalVsTarget": [
           {
@@ -293,6 +295,14 @@
           {
             "total": "total_7",
             "target": "target_7"
+          },
+          {
+            "total": "total_8",
+            "target": "target_8"
+          },
+          {
+            "total": "total_9",
+            "target": "target_9"
           }
         ],
         "projectTargets": [
@@ -301,20 +311,36 @@
             "targetedColumn": "target_1"
           },
           {
-            "beneficiarytype": "INDIVIDUAL",
+            "beneficiarytype": "5-14YEARS",
             "targetedColumn": "target_2"
           },
           {
-            "beneficiarytype": "PRODUCT",
-            "targetedColumn": "target_7"
-          },
-          {
-            "beneficiarytype": "5-14YEARS",
+            "beneficiarytype": "15+YEARS",
             "targetedColumn": "target_3"
           },
           {
-            "beneficiarytype": "14+YEARS",
+            "beneficiarytype": "SETTLEMENT-INDIVIDUAL",
             "targetedColumn": "target_4"
+          },
+          {
+            "beneficiarytype": "SETTLEMENT-PRODUCT",
+            "targetedColumn": "target_5"
+          },
+          {
+            "beneficiarytype": "SCHOOL-INDIVIDUAL",
+            "targetedColumn": "target_6"
+          },
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "target_7"
+          },
+          {
+            "beneficiarytype": "SCHOOL-PRODUCT",
+            "targetedColumn": "target_8"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "target_9"
           }
         ]
       },
