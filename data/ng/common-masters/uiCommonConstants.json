@@ -9,12 +9,16 @@
               "routePath": "/kibana-upgrade/login",
               "isOrigin": true
             },
-            "national": {
+            "national-LF": {
               "routePath": "/kibana-upgrade/s/national-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/27ba5a75-644a-4087-8c00-5785d7df91f9?_g=(time:(from:now-15m,to:now))",
               "isOrigin": true,
               "title": "NATIONAL_DASHBOARD"
+            },
+            "national": {
+              "routePath": "/kibana-upgrade/s/schisto-space-copy/app/dashboards?auth_provider_hint=anonymous1#/view/f4178bfd-3d65-42e0-847c-8ca4e57f9da8?_g=(time:(from:now-15m,to:now))",
+              "isOrigin": true,
+              "title": "NATIONAL_DASHBOARD"
             }
-
           }
         }
       }
