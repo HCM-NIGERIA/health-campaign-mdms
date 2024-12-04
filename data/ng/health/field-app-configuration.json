@@ -112,6 +112,22 @@
         {
           "name": "SPAQ_CONCILIATION",
           "code": "SPAQ_CONCILIATION"
+        },
+        {
+          "name": "CDD_INTERVIEW",
+          "code": "CDD_INTERVIEW"
+        },
+        {
+          "name": "CLIENT_INTERVIEW",
+          "code": "CLIENT_INTERVIEW"
+        },
+        {
+          "name": "SUPERVISORY_CHECKLIST",
+          "code": "SUPERVISORY_CHECKLIST"
+        },
+        {
+          "name": "TTAs_CHECKLIST",
+          "code": "TTAs_CHECKLIST"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
@@ -336,6 +352,13 @@
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-inventory-details",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-attendance",
             "config": {
               "localStoreTTL": 172800
             }

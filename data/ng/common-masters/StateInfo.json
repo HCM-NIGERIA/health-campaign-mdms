@@ -6,24 +6,20 @@
       "name": "Tete",
       "code":"ng",
       "bannerUrl": "https://raw.githubusercontent.com/egovernments/egov-web-app/rainmaker-v1-dynamic-state/web/rainmaker/packages/assets/images/kar/state-images/Jog%20falls%20High%20Resolution%20images.jpg",
-      "logoUrl":"https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/moz-gov-logo.jpeg",
-      "digitLogoUrl":"https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/digit-logo.png",
+      "logoUrl":"https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/schisto-red.png",
+      "digitLogoUrl":"https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/schisto-white.png",
       "headerProgramLogoUrl": "https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/digit-logo.png",
-      "customReportsDriveLink": "https://drive.google.com",
+      "customReportsDriveLink": "https://drive.google.com/drive/folders/1Fr9DvzNkGNCTGuTqXFW3M98Czxp4wc_Z",
       "hasLocalisation": true,
       "isLanguageSelectionDisabled": false,
       "isForgotPwdDisabled": true,
-      "defaultLanguage": "pt_NG",
+      "defaultLanguage": "en_NG",
       "isCitySelectionDisabled": true,
       "defaultCity": "ng",
       "languages": [
         {
           "label": "ENGLISH",
           "value": "en_NG"
-        },
-        {
-          "label": "PORTUGUÊS",
-          "value": "pt_NG"
         }
       ],
       "localizationModules": [

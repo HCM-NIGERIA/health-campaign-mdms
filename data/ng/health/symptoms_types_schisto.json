@@ -1,0 +1,71 @@
+{
+    "tenantId": "ng",
+    "moduleName": "HCM-SYMPTOMS-TYPES-SCHISTO",
+    "symptomsTypesSchisto": [
+        {
+            "code": "ABDOMINAL_PAIN",
+            "name": "Abdominal Pain",
+            "active": true
+        },
+        {
+            "code": "DIARRHOEA",
+            "name": "Diarrhoea",
+            "active": true
+        },
+        {
+            "code": "NAUSEA",
+            "name": "Nausea",
+            "active": true
+        },
+        {
+            "code": "VOMITING",
+            "name": "Vomiting",
+            "active": true
+        },
+        {
+            "code": "TIREDNESS",
+            "name": "Tiredness",
+            "active": true
+        },
+        {
+            "code": "URTICARIA",
+            "name": "Urticaria (rash)",
+            "active": true
+        },
+        {
+            "code": "MUSCLE_PAIN",
+            "name": "Muscle Pain",
+            "active": true
+        },
+        {
+            "code": "HEADACHE",
+            "name": "Headache",
+            "active": true
+        },
+        {
+            "code": "DIZZINESS",
+            "name": "Dizziness",
+            "active": true
+        },
+        {
+            "code": "FEVER",
+            "name": "Fever",
+            "active": true
+        },
+        {
+            "code": "ITCHING",
+            "name": "Itching",
+            "active": true
+        },
+        {
+            "code": "SWEATING",
+            "name": "Sweating",
+            "active": true
+        },
+        {
+            "code": "OTHER",
+            "name": "Other",
+            "active": true
+        }
+    ]
+}
