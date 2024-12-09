@@ -10,12 +10,12 @@
               "isOrigin": true
             },
             "national-LF": {
-              "routePath": "/kibana-upgrade/s/national-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/27ba5a75-644a-4087-8c00-5785d7df91f9?_g=(time:(from:now-15m,to:now))",
+              "routePath": "/kibana-upgrade/s/n-c/app/dashboards?auth_provider_hint=anonymous1#/view/851986d5-64a6-40c7-aa88-31f7d7b4dd23?_g=(refreshInterval:(pause:!t,value:60000)&_a=()",
               "isOrigin": true,
               "title": "NATIONAL_DASHBOARD"
             },
             "national": {
-              "routePath": "/kibana-upgrade/s/schisto-space-copy/app/dashboards?auth_provider_hint=anonymous1#/view/f4178bfd-3d65-42e0-847c-8ca4e57f9da8?_g=(time:(from:now-15m,to:now))",
+              "routePath": "/kibana-upgrade/s/schisto-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/f4178bfd-3d65-42e0-847c-8ca4e57f9da8?_g=(refreshInterval:(pause:!t,value:60000)&_a=()",
               "isOrigin": true,
               "title": "NATIONAL_DASHBOARD"
             }
