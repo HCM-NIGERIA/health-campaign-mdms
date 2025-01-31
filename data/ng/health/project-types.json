@@ -1216,7 +1216,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "age>59andage<169height>89",
+                  "condition": "age>59andage<169andheight>89",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-31-000007",
